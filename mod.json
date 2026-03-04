@@ -1,0 +1,11 @@
+{
+  "Id": "NikitaFishMod",
+  "DisplayName": "Рыба Никита",
+  "Author": "YourName",
+  "Version": "1.0.0",
+  "Requires": ["Nautilus"],
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "NikitaFishMod.dll",
+  "EntryMethod": "NikitaFishMod.NikitaFishMod.Awake"
+}
