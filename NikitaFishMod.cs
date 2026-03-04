@@ -27,7 +27,7 @@ namespace NikitaFishMod
             // Регистрируем рыбу
             RegisterNikitaFish();
             
-            Console.WriteLine("[NikitaFishMod] Мод успешно загружен! Рыба Никита готова к вылову.");
+            Console.WriteLine("[NikitaFishMod] ");
         }
 
         private void LoadAssetBundle()
